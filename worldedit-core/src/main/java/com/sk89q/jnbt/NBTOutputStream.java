@@ -40,8 +40,8 @@ import static com.google.common.base.Preconditions.checkNotNull;
  *
  * <p>
  * The NBT format was created by Markus Persson, and the specification may be
- * found at <a href="https://minecraft.gamepedia.com/NBT_format">
- * https://minecraft.gamepedia.com/NBT_format</a>.
+ * found at <a href="https://minecraft.wiki/w/NBT_format">
+ * https://minecraft.wiki/w/NBT_format</a>.
  * </p>
  *
  * @deprecated JNBT is being removed for adventure-nbt in WorldEdit 8.
